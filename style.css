@@ -1,0 +1,140 @@
+
+
+
+/* nav-bar */
+
+
+.list-c{
+   
+    display: flex;
+ 
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+}
+.list{ 
+
+    display: flex;
+    width: 100%;
+      list-style-type: none;
+      justify-content: space-evenly;
+      
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: space-evenly;
+    
+    align-items: center;
+}
+
+.button-group{
+    display: flex;
+    align-items: center;
+  
+}
+
+
+.nav-button{
+    width: 100px;
+    height: 30px;
+    font-size: 16px;
+    border-radius: 10px;
+
+}
+
+.list-item{
+
+font-size: 20px;
+font-family: 'Segoe UI';
+
+
+}
+
+.home{
+
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+/* Hero banner section */
+
+.hero-container{
+
+    display: flex;
+    position: ab;
+}
+
+.person-container{
+    position: absolute;
+    top: 20%;
+    left: 8%;
+    height: 400px;
+    width: 500px;
+    background-size: cover;
+    
+}
+
+.square{
+
+    position: absolute;
+    top: 310px;
+    left: 210px;
+}
+
+.globe{
+    position: absolute;
+    top: 15%;
+    left: 55%;
+}
+
+.star{
+    position: absolute;
+    top: 22%;
+   
+    right: 10%;
+    
+   
+
+}
+
+.hero-container-right{
+
+    position: absolute;
+    top: 30%;
+   
+    right: 5%;
+    text-align: center;
+    
+}
+
+h1{
+    font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+    font-size: 50px;
+}
+
+
+p{
+    padding-bottom: 30px;
+}
+.button-email{
+    border-radius: 5px;
+    
+    width: 105px;
+}
+.button-join{
+    border-radius: 5px;
+    
+   background-color: black;
+   color: aliceblue;
+}
+
+
+h4{
+    padding-top: 60px;
+}
+
+
