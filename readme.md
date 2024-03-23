@@ -13,7 +13,7 @@ A statc web page of Fashion Trends using HTML CSS.
 ## What I learned from this Project
 
 - This project gave me good learning experience about how html and css works. 
-- I learned how to use HTML and CSS to create a beutiful website.
+- I learned how to use HTML and CSS to create a beautiful website.
 - I learned about the ways of positioning elements in the HTML and CSS.
 
 
